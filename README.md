@@ -30,7 +30,7 @@
    只要将上述两个信息复制进入本程序，点击计算按钮，即可得到学生对应的分数。
 
 ## 运行截图
-   ![screen shot](https://github.com/lzddzh/PE_score_calculator/img/screenShot.png)
+   ![screen shot](https://github.com/lzddzh/PE_score_calculator/blob/master/img/ScreenShot.png)
 
 ## 运行环境Pre-requests
    Java jre 1.8
